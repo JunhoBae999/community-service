@@ -37,4 +37,5 @@ public class Channel extends BaseTimeEntity {
         this.isPrivate = option;
     }
 
+
 }
